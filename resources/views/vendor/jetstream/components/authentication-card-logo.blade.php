@@ -1,17 +1,17 @@
 <a href="/">
-    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="135mm" height="148mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="30mm" height="32mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 13500 14800"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
    <clipPath id="id0">
-    <rect x="258.14" y="110.06" width="12970.93" height="14596.53"/>
+    <rect x="264.54" y="101.74" width="12970.92" height="14596.52"/>
    </clipPath>
  </defs>
  <g id="Capa_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <g style="clip-path:url(#id0)">
-   <image id="Objeto_x0020_1" x="258.14" y="110.06" width="12970.93" height="14596.53" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmYAAAKzCAIAAAFMumbXAAAACXBIWXMA
+   <image id="Objeto_x0020_2" x="264.54" y="101.74" width="12970.92" height="14596.52" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmYAAAKzCAIAAAFMumbXAAAACXBIWXMA
 ABJ0AAASdAHeZh94AAAgAElEQVR4nOx9B4BcVfX3be+96dt3k+ymkd4JgSSUAKFKgIBIE6QjRREQ
 VEARULrSVEBAFEGa0nsJIZQAaaT3ns3uZrN9dqe8cst3zpuAiAkkEMBP/9ewzszuzNzfLef8zrnn
 nCuMMeR/oIlvugNfR0tnmv/LcU5f+MbcumsvnPT2fzFO87P7R9fsYi6ctID8V67b25/4XodaXpaq
@@ -6507,4 +6507,5 @@ FVVUUUUVVdyb4SGTMTbZmv5gT6WKKqqooooq7uX4/wFwlYs6w9+q1QAAAABJRU5ErkJggg=="/>
   </g>
  </g>
 </svg>
+
 </a>
